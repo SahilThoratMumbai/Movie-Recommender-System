@@ -144,3 +144,4 @@ webcolors==24.8.0
 webencodings==0.5.1
 websocket-client==1.8.0
 yfinance==0.2.33
+moviepy>=1.0.3,<2.0  # Example, verify actual version compatibility
