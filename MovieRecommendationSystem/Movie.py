@@ -97,6 +97,7 @@ if st.button("✨ Show Recommendations ✨", help="Click to get movie recommenda
     # Show recommendations with background and animation
     st.markdown(
         """
+        
         <div class="recommendation-section">
             <h2 class="animated-text">
             Here are some movies you might like:
