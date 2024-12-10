@@ -5,6 +5,7 @@ import time
 
 
 
+
 # Set Streamlit page layout
 st.set_page_config(page_title="Movie Recommender System", layout="wide")
 
