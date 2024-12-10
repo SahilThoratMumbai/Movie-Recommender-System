@@ -21,7 +21,7 @@ comm==0.2.2
 contourpy==1.2.0
 cycler==0.12.1
 debugpy==1.8.5
-decorator==5.1.1
+decorator>=4.0.2,<5.0
 defusedxml==0.7.1
 distlib==0.3.7
 distro==1.9.0
@@ -102,6 +102,7 @@ pycparser==2.22
 pydantic==2.6.3
 pydantic_core==2.16.3
 Pygments==2.18.0
+PyMySQL==1.1.1
 pyparsing==3.1.1
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
@@ -144,4 +145,3 @@ webcolors==24.8.0
 webencodings==0.5.1
 websocket-client==1.8.0
 yfinance==0.2.33
-moviepy>=1.0.3,<2.0  # Example, verify actual version compatibility
